@@ -3,11 +3,19 @@
 
 Desafio Go: https://github.com/jeziellopes/codeeducation
 
-# How to run
-
 ![Screen](./screen.png)
 
-# Informações do desafio
+## How to run
+
+```bash
+  # run docker image
+  docker run --rm jeziellopes/codeeducation
+
+  # show docker image size
+  docker image ls | grep jeziellopes
+```
+
+## Informações do desafio
 
 Esse desafio é muito empolgante principalmente se você nunca trabalhou com a linguagem Go!
 
